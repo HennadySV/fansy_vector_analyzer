@@ -1,0 +1,20 @@
+# Fansy Analytics MVP - Python Dependencies
+
+# Web Framework
+flask==2.3.3
+flask-cors==4.0.0
+werkzeug==2.3.7
+
+# Database
+fdb==2.0.2
+
+# Graph Analysis
+networkx==3.1
+
+# Data Processing
+python-dateutil==2.8.2
+
+# Optional (for production)
+# gunicorn==21.2.0
+# redis==5.0.0
+# psycopg2-binary==2.9.7
